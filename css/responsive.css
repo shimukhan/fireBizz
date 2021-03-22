@@ -1,0 +1,41 @@
+/* Laptop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+}
+
+/* LG device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+  .slider-content h2 {
+    font-size: 50px;
+  }
+  .slider-height {
+    min-height: 650px;
+  }
+  .service-box h4 {
+    font-size: 17px;
+  }
+  .video-wrapper h2 {
+    font-size: 29px;
+  }
+  .case-content h3 a {
+    font-size: 16px;
+  }
+  .single-testimonial p {
+    font-size: 26px;
+  }
+  .blog-content h4 {
+    font-size: 13px;
+    margin-bottom: 11px;
+  }
+}
+
+/* md device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+}
+
+/* xs mobile :320px. */
+@media (max-width: 767px) {
+}
+
+/* small Mobile :550px. */
+@media only screen and (min-width: 550px) and (max-width: 767px) {
+}
